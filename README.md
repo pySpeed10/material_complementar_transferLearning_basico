@@ -1,6 +1,6 @@
 # 📊 Modelos clássicos de algoritmos de Aprendizagem Profunda utilizando Transfer Learning para o diagnóstico precoce de Câncer de Mama
 
-Este repositório reúne os **códigos-fonte**, **resultados experimentais** e **scripts de análise** utilizados na pesquisa de **classificação de imagens médicas com redes neurais profundas e Transformers (ViT)**, como parte de uma meta-análise sobre o uso de **Aprendizado de Máquina e Visão Computacional** em **sistemas CAD (Computer-Aided Diagnosis)** na medicina de precisão.
+Este repositório reúne os **códigos-fonte**, **resultados experimentais** e **scripts de análise** utilizados na pesquisa de **classificação de imagens médicas com redes neurais profundas e Transformers (ViT)**.
 
 ---
 
