@@ -1,0 +1,7 @@
+Fold 1 - Acc: 0.5178, Recall: 0.5360, Prec: 0.5529, F1: 0.4475, Esp: 0.7596
+Fold 2 - Acc: 0.5075, Recall: 0.5218, Prec: 0.5099, F1: 0.4323, Esp: 0.7524
+Fold 3 - Acc: 0.5214, Recall: 0.5456, Prec: 0.5201, F1: 0.5145, Esp: 0.7631
+Fold 4 - Acc: 0.4951, Recall: 0.5282, Prec: 0.3359, F1: 0.4104, Esp: 0.7509
+Fold 5 - Acc: 0.5083, Recall: 0.5362, Prec: 0.5317, F1: 0.4936, Esp: 0.7601
+
+FINAL - Acc: 0.5100, Recall: 0.5336, Prec: 0.5064, F1: 0.5015, Esp: 0.7572
