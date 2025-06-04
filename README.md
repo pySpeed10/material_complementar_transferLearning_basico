@@ -13,21 +13,20 @@ Este repositório reúne os **códigos-fonte**, **resultados experimentais** e *
 
 ## 📂 Estrutura do Repositório
 
-# 📦 Material_Complementar_CAD/
+📦 **Material_Complementar_CAD/**  
+&emsp;📜 **README.md**  
+&emsp;📜 **teste_t_pareado_fscore.r**  
+&emsp;📜 **comp_metricas_fscore_modelos.r**  
 
-&emsp; ## 📜 README.md
-## 📜 teste_t_pareado_fscore.r
-## 📜 comp_metricas_fscore_modelos.r
+&emsp;📁 **Redes_Neurais/**  
+&emsp;&emsp;📜 `train_resnet.py`  
+&emsp;&emsp;📜 `resultados_resnet.txt`  
+&emsp;&emsp;📊 **graficos/** *(Matriz de confusão, etc.)*  
 
-## 📁 Redes_Neurais/
-### 📜 train_resnet.py
-### 📜 resultados_resnet.txt
-### 📊 graficos/ (Matriz de confusão, etc.)
-
-## 📁 ViT/
-### 📜 train_vit.py
-### 📜 resultados_vit.txt
-### 📊 graficos/ (Matriz de confusão, etc.)
+&emsp;📁 **ViT/**  
+&emsp;&emsp;📜 `train_vit.py`  
+&emsp;&emsp;📜 `resultados_vit.txt`  
+&emsp;&emsp;📊 **graficos/** *(Matriz de confusão, etc.)*
 
 ---
 
