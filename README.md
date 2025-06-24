@@ -14,10 +14,9 @@ Este repositório reúne os **códigos-fonte**, **resultados experimentais** e *
 ## 📂 Estrutura do Repositório
 
 📦 **Material_Complementar_CAD/**  
-&emsp;📜 **README.md**  
-&emsp;📜 **teste_t_pareado_fscore.r**  
-&emsp;📜 **comp_metricas_fscore_modelos.r**
-&emsp;&emsp; (melhores modelos a partir do maior f-score)
+-  📜 **README.md**  
+-  📜 **teste_t_pareado_fscore.r**  
+&emsp;📜 **comp_metricas_fscore_modelos.r** (melhores modelos a partir do maior f-score)
 &emsp;📜 **comp_metricas_modelos_vit.r**
 &emsp;📜 **comp_metricas_modelos_resnet.r**  
 
