@@ -16,9 +16,9 @@ Este repositório reúne os **códigos-fonte**, **resultados experimentais** e *
 📦 **Material_Complementar_CAD/**  
 -  📜 **README.md**  
 -  📜 **teste_t_pareado_fscore.r**  
-&emsp;📜 **comp_metricas_fscore_modelos.r** (melhores modelos a partir do maior f-score)
-&emsp;📜 **comp_metricas_modelos_vit.r**
-&emsp;📜 **comp_metricas_modelos_resnet.r**  
+-  📜 **comp_metricas_fscore_modelos.r** (melhores modelos a partir do maior f-score)
+-  📜 **comp_metricas_modelos_vit.r**
+-  📜 **comp_metricas_modelos_resnet.r**  
 
 &emsp;📁 **Redes_Neurais/**  
 &emsp;&emsp;📜 `train_resnet.py`  
